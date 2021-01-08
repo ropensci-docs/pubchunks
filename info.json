@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3aedf2f18706247eed605be4e5b69da8c41810cf",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-01-08 02:37:26",
+    "files": 5,
+    "merge": false,
+    "message": "update description, news, cran comments, codemeta.json\n"
+  },
+  "remote": "https://github.com/ropensci/pubchunks",
+  "pkg": "pubchunks"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pub_chunks.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pub_guess_publisher.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pub_providers.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pub_sections.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pub_tabularize.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pubchunks/reference/pubchunks-package.html</loc>
+  </url>
+</urlset>
